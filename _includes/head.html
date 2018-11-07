@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Adding google fonts & analytics -->
   <link href="https://fonts.googleapis.com/css?family=Tajawal" rel="stylesheet"> 
-  {% include ganalytics.html %}
   {% assign page_title = '' %}
   {% if page.title == "Home" %}
       {% capture page_title %}
@@ -130,6 +129,7 @@
     <!-- Basic Sage -->
     <script dir="ltr">sagecell.makeSagecell({"inputLocation": ".sage"});</script>
     <link href='http://fonts.googleapis.com/earlyaccess/amiri.css' rel='stylesheet' type='text/css'/>
- </head>
+{% include ganalytics.html %} 
+</head>
 
 </head>
