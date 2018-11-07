@@ -5,7 +5,6 @@ comments: true
 description: "أود رؤية ما اللذي سيحصل"
 keywords: "dummy content"
 ---
-<div dir="rtl">
 #ما أدري
 ### Use this theme as you main site
 - تحميل أشيائ جداد
@@ -16,6 +15,13 @@ keywords: "dummy content"
 - Edit `about.md` file for your About page.
 - Inside `_posts` folder, there are sample of blog entries. Learn from it and start yours.
 - Now, visit `http://your_username.github.io` and you should see your blog running.
+<div class="sage">
+  <script type="text/x-sage">
+F.<e,f,h> = FreeAlgebra(QQ,3)
+U = F.g_algebra({f*e: e*f - h, h*e: e*h + 2*e, h*f: f*h-2*f})
+U
+  </script>
+</div>
 
 ### Use this theme as a project page
 
