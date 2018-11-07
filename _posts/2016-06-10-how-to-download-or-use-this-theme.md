@@ -5,7 +5,7 @@ comments: true
 description: "أود رؤية ما اللذي سيحصل"
 keywords: "dummy content"
 ---
-
+<div dir="rtl">
 ### Use this theme as you main site
 - تحميل أشيائ جداد
 - عربي مع english
