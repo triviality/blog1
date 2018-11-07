@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "How to Download or Use This Theme"
+title: "عندما ابدأ بالتدوين"
 comments: true
-description: "How to Download or Use This Theme"
+description: "أود رؤية ما اللذي سيحصل"
 keywords: "dummy content"
 ---
 
 ### Use this theme as you main site
-
+- تحميل أشيائ جداد
+- عربي مع english
 - Download or fork the master branch of this theme repo into your GitHub account.
 - Rename the repo into something like `your_username.github.io`.
 - Edit `_config.yml` file to your preferences.
