@@ -6,6 +6,7 @@ description: "أود رؤية ما اللذي سيحصل"
 keywords: "dummy content"
 ---
 <div dir="rtl">
+#ما أدري
 ### Use this theme as you main site
 - تحميل أشيائ جداد
 - عربي مع english
@@ -23,3 +24,4 @@ If you want to use this theme as a project page blog, you don't need to rename t
 All you need to do, open `_config.yml` file, change `baseurl` to your project name which contains this theme, e.g. `baseurl: "/myproject"`.
 
 #### Cheers!
+<div dir="rtl">
