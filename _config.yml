@@ -1,6 +1,6 @@
 # Site settings
 title_left    : "بوريطش الحكماء" 
-title_right   :  "فامزجهما مزج امرء ذي حكمة واحكم مزاوجة الهواء بالماء "# default: ""
+title_right   :  "  فامزجهما مزج امرء ذي حكمة واحكم مزاوجة الهواء بالماء"# default: ""
 description   : "عودة للتدوين"
 keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url           : https://triviality.github.io # site url
