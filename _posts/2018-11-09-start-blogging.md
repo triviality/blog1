@@ -12,9 +12,9 @@ keywords: "dummy content"
 <div class="sage">
  
 <script type="text/x-sage">
-F.<e,f,h> = FreeAlgebra(QQ,3)
+F.<e,f,h> = FreeAlgebra(QQ,3);
 
-U = F.g_algebra({f*e: e*f - h, h*e: e*h + 2*e, h*f: f*h-2*f})
+U = F.g_algebra({f*e: e*f - h, h*e: e*h + 2*e, h*f: f*h-2*f});
 
 U
 </script>
